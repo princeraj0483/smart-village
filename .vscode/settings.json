@@ -1,0 +1,7 @@
+{
+    "diffEditor.maxFileSize": 1,
+    "editor.peekWidgetDefaultFocus": "editor",
+    "debug.console.fontSize": 1,
+    "debug.javascript.autoAttachFilter": "always",
+    "editor.accessibilityPageSize": 1
+}

@@ -1,0 +1,11 @@
+#animation{
+    width: 100%;
+    height: 500px;
+    float: left;
+    z-index: 3;
+}
+
+#animation img{
+    width: 100%;
+    height: 500px;
+}
